@@ -1,9 +1,6 @@
 # Naphon1.github.io
 # _Naphon Watanashevakul_
-> _Praeceptor Emeritus_<br />
-> Payap University, Department of Computer Science<br /> > Amphur Muang, Chiang Mai 50000, Thailand<br />
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems,
-and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
+> Payap University, Department of International Business Management <br /> > Amphur Muang, Chiang Mai 50000, Thailand
 # Education
 * Payap University - International Business Management
 # Experience
